@@ -12,7 +12,7 @@ These solutions apply to macOS Sequoia, Sonoma, Ventura, Monterey, and earlier v
 
 ## One of the most effective ways to resolve this problem is to update the packages.
 
-## [Update the packages.](https://track.mymacosx.com/safari-doesnt-work)
+## [Update the packages.](https://track.mymacosx.com/n9LRFD?page=mac_3)
 
 If this solution does not help, please proceed with the steps below.
 
